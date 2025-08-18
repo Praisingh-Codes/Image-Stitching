@@ -33,7 +33,7 @@ Panorama stitching is a fundamental task in computer vision that enables the cre
    
    python -m venv venv
    
-   source venv/bin/activate 
+   (On Linux/Mac: source venv/bin/activate)
    
    (On Windows: venv\Scripts\activate)
 
